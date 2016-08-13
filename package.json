@@ -1,0 +1,28 @@
+{
+  "name": "beh-pardakht",
+  "version": "1.0.0",
+  "description": "server for device service SmartPush",
+  "main": "index.js",
+  "dependencies": {
+    "moment-jalaali": "^0.3.8",
+    "soap": "^0.11.1",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Saeed Torabi",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeedtrb/node-behpardakht.git"
+  },
+  "keywords": [
+    "behpardakht"
+  ],
+  "bugs": {
+    "url": "https://github.com/saeedtrb/node-behpardakht/issues"
+  },
+  "homepage": "https://github.com/saeedtrb/node-behpardakht#readme"
+}
