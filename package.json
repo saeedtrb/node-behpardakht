@@ -1,7 +1,7 @@
 {
   "name": "beh-pardakht",
   "version": "1.0.0",
-  "description": "server for device service SmartPush",
+  "description": "this is a JavaScript Class for work with BehPardakht API",
   "main": "index.js",
   "dependencies": {
     "moment-jalaali": "^0.3.8",
